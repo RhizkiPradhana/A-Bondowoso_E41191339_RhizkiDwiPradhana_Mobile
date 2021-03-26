@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <string-array name="Date">
+    <item>Senin, 20 Jan 2021</item>
+    <item>Selasa, 13 Mar 2021</item>
+    <item>Rabu, 26 Mar 2021</item>
+    <item>Kamis, 4 Apr 2021</item>
+    <item>Jumat, 9 Apr 2021</item>
+</string-array>
+    <string-array name="Time">
+        <item>8:00AM</item>
+        <item>8:00AM</item>
+        <item>10:00AM</item>
+        <item>10:00AM</item>
+        <item>8:00AM</item>
+    </string-array>
+</resources>

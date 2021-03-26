@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="done">Done</string>
+    <string name="reminder">reminder</string>
+</resources>
